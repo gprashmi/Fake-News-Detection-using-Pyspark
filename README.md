@@ -20,7 +20,7 @@ The fake news dataset is taken from kaggle: https://www.kaggle.com/clmentbisaill
 
 ## Modelling
 
-The text processing is performed using RegexTokenizer, Word2Vec and StringIndexer. The fake news detection is implemented by training the data using three algorithms: Decision Tree, Gradient Boosting and Neural Network. The parmeter tuning for Gradient Boosting is done using 3-fold Cross Validation. The neural network is implemented by integrating Keras with Elephas to run the network on Apache Spark. The model evaluation is performed by studying the accuracy, AUC and F1 score and confusion matrix.
+The text processing is performed using RegexTokenizer, Word2Vec and StringIndexer. The fake news detection is implemented by training the data using three algorithms: Decision Tree, Gradient Boosting and Neural Network. The parameter tuning for Gradient Boosting is done using 3-fold Cross Validation. The neural network is implemented by integrating Keras with Elephas to run the network on Apache Spark. The model evaluation is performed by studying the accuracy, AUC and F1 score and confusion matrix.
 
 ## Results
 
