@@ -16,7 +16,7 @@ pip install elephas
 
 ## Dataset
 
-The fake news dataset is taken from kaggle: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset. There are two seperate csv files for real and fake news. The two data are combined to a single dataset by creating labels: Real and Fake. Each dataset has title, text, subject and date features.The fake news detection is performed using three different features: title, text of the news article and by concatanating title and text of the news.
+The fake news dataset is taken from kaggle: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset. There are two seperate csv files for real and fake news. The two data are combined to a single dataset by creating labels: Real and Fake. Each dataset has title, text, subject and date features.The fake news detection is performed using three different features: title, text of the news article and by concatenating title and text of the news.
 
 ## Modelling
 
