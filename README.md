@@ -37,7 +37,9 @@ Comparing the results to see the best performance of each model against the indi
 ## Link to the Colab code:
 
 Fake_news_detection_using_text: https://colab.research.google.com/drive/1JfAAZ70sWDHcp0QK6DQAvhsCG7OrQrAi?usp=sharing
+
 Fake_news_detection_using_title: https://colab.research.google.com/drive/1LZ5f91ES7hZ6U2NI7GcdURobZtAEyLfD?usp=sharing
+
 Fake_news_detection_using_title_and_text: https://colab.research.google.com/drive/1iOZmYeZi-xHMrtil9IKwBHze2_5zmCPN?usp=sharing
 
 ## Reference:
